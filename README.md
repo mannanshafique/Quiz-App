@@ -1,6 +1,6 @@
-# ppractice
+# Quiz App
 
-A new Flutter application.
+A Flutter app in which you gave quiz.
 
 ## Getting Started
 
